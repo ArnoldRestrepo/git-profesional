@@ -1,6 +1,3 @@
 Mi nombre es Arnold Restrepo
 
-<<<<<<< HEAD
 Es desarrollador frontend  
-=======
->>>>>>> 6d2b643e9e593b4ca64bb138a3ee6c22cab7888b
