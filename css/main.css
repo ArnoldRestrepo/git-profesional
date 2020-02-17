@@ -1,36 +1,41 @@
-body
-{
-    color: darkblue;
-    text-align: center;
-    font-family: 'Open Sans';
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
+body {
+  background: #1e1f24;
+  color: darkblue;
+  text-align: center;
+  font-family: 'Open Sans';
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
 }
-.container
-{
+.container {
+  background: white;
   width: 70%;
   padding: 1em;
   text-align: left;
-  border: 1px solid #DDD;
+  border: 1px solid #ddd;
   margin: 0 auto;
 }
 
-.container h1
-{
-    font-size: 20px;
+.container h1 {
+  font-size: 20px;
 }
 
-.header{
-  background: #33A;
-  box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+.header {
+  background: #33a;
+  box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
   color: white;
   font-weight: bold;
   margin: 0;
   padding: 0.5em;
 }
 
-.tagline{
+.logo {
+  width: 50px;
+  height: auto;
+  vertical-align: middle;
+}
+
+.tagline {
   padding: 0 0 0 1em;
   font-weight: normal;
   font-size: 0.8em;
